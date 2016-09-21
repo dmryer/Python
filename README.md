@@ -1,2 +1,3 @@
 # Python
-Collection of Jupyter and Python projects
+Collection of Jupyter projects
+Also contains generic python code
